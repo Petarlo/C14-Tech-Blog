@@ -28,7 +28,7 @@
   Screenshots, GIF and Walkthrough link are below...
   ![Screenshot of application](./public/images/Screenshot.png)
   ![GIF demo](./public/images/techBlog.gif)
-  ![Link to deployed page](https://warm-mesa-42993-265d51a36ab0.herokuapp.com/)
+  [Link to deployed page](https://warm-mesa-42993-265d51a36ab0.herokuapp.com/)
 
 
   ## Licenses
