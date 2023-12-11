@@ -1,3 +1,119 @@
-header, .project:not(:last-child) {
-    border-bottom: 1px solid #ccc;
-  }
+body, html {
+  height: 100%;
+}
+
+.navbar {
+ text-decoration: none;
+}
+
+.bg {
+  background-image: url("/images/techBG5.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.postBox {
+  margin-top: 8px;
+  border-style: solid;
+}
+
+.postTitle {
+  text-decoration: none;
+  color: #ccc;
+}
+
+.postDesc {
+  border-style: solid;
+  margin-bottom: 5px;
+  padding: 2px;
+  background-color: #ccc;
+}
+
+.postDescMain {
+  font-weight: 700;
+}
+
+.postDescTwo {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.postCreate {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 12px;
+  padding: 5px;
+  color: #ccc;
+}
+
+.postBoxCont {
+	margin-top: 10px;
+  border-style: solid;
+  background-color: #ccc;
+}
+
+.formCont {
+  margin-top: 10px;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.commentCont {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 75%;
+  background-color: #ccc;
+}
+
+.commentOwner {
+  font-size: 14px;
+}
+
+.btnComment {
+  margin-top: 10px;
+}
+
+.commentText {
+  font-weight: bold;
+  padding-top: 10px;
+  background-color: #ccc;
+}
+
+.commentCont {
+  border-style:solid;
+}
+
+.headerRow {
+  background-color: black;
+  margin-bottom: 10px;
+}
+
+.login{
+	margin-left: 0px;
+}
+
+a[href="/signUp"]{
+  color: black;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.signup{
+	margin-left: 0px;
+}
+
+a[href="/login"]{
+  color: #ccc;
+  font-weight: 700;
+  font-size: larger;
+}
+
+
+.form-group{
+	margin-top: 10px;
+}
